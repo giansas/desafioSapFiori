@@ -1,7 +1,36 @@
-# desafioSapFiori
-Desafio SAP Fiori:
-Consiste em uma aplicação front-end do SAP Fiori conectada a uma API de busca de imagens, onde ao digitar um tema, a API faz a busca e exibe na tela de aplicação.
+## Application Details
+|               |
+| ------------- |
+|**Generation Date and Time**<br>Wed Feb 01 2023 20:05:06 GMT-0300 (Horário Padrão de Brasília)|
+|**App Generator**<br>@sap/generator-fiori-freestyle|
+|**App Generator Version**<br>1.8.5|
+|**Generation Platform**<br>Visual Studio Code|
+|**Template Used**<br>simple|
+|**Service Type**<br>None|
+|**Service URL**<br>N/A
+|**Module Name**<br>google_images|
+|**Application Title**<br>Images search|
+|**Namespace**<br>|
+|**UI5 Theme**<br>sap_horizon|
+|**UI5 Version**<br>1.109.3|
+|**Enable Code Assist Libraries**<br>False|
+|**Enable TypeScript**<br>False|
+|**Add Eslint configuration**<br>False|
 
-EN
-SAP Fiori Challenge:
-It consists of a SAP Fiori front-end application connected to an image search API, where when typing a theme, the API does the search and displays it on the application screen.
+## google_images
+
+A Fiori application.
+
+### Starting the generated app
+
+-   This app has been generated using the SAP Fiori tools - App Generator, as part of the SAP Fiori tools suite.  In order to launch the generated app, simply run the following from the generated app root folder:
+
+```
+    npm start
+```
+
+#### Pre-requisites:
+
+1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
+
+
